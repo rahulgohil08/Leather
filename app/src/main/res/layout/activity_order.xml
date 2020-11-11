@@ -214,7 +214,7 @@
                 android:background="@color/colorPrimary"
                 android:gravity="center"
                 android:onClick="place_order"
-                android:text="Order"
+                android:text="Order Now"
                 android:textColor="@color/white"
                 android:textSize="15sp" />
 
