@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#E57373</color>
+    <color name="colorPrimary">#80DEEA</color>
     <color name="colorBlue">#2478C2</color>
     <color name="darkBlue">#0D4675</color>
     <color name="colorPrimaryDark">#00574B</color>
@@ -11,4 +11,5 @@
     <color name="colorOlive">#708238</color>
     <color name="colorMenu">#FF6C6C6C</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorSurface">#FFF8E1</color>
 </resources>
